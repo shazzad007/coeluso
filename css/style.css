@@ -1,0 +1,213 @@
+/*Autho Info
+
+Name:Shazzad Hossian;
+Mail:hossainshazzad96@gmail.com;
+
+/*
+
+======Index=====
+1.Global CSS
+2.Header
+3.blog
+4.Feature
+5.Coelsuo
+6.Service
+7.Message
+8.Discover
+9.Footer
+
+================
+
+/* Global CSS*/
+@import url('https://fonts.googleapis.com/css?family=Roboto+Slab:300,400,700');
+
+.img-center{
+	display: block;
+	margin-bottom: 0 auto;
+}
+
+
+body{
+	background: #051123;
+	color: #fff;
+}
+
+header {
+    padding-top: 30px;
+}
+
+.sco img {
+    width: 105px;
+    height: 40px;
+}
+
+.wal {
+    padding-top: 70px;
+    text-align: center;
+}
+
+.wal p{
+	color: #2a5da3;
+	font-size: 12px;
+}
+
+
+h2{
+	font-size: 35px;
+}
+
+.lead{
+	font-size: 12px;
+    line-height: 1.75;
+    padding-bottom: 23px;
+}
+
+span.bd{
+	color: #2a5da3;
+}
+
+.blog{
+	background:url(../img/10.png);
+	background-size: cover;
+}
+
+.icc img {
+    width: 115%;
+    height: 95%;
+}
+
+.nz img {
+    width: 120%;
+    height: 105%;
+}
+
+.btn{
+	padding: 7px 10px;
+    color: #fff;
+    border: 1px solid darkblue;
+    margin: 15px;
+    border-radius: 20px;
+    font-size: 12px;
+}
+
+.AA img{
+	width: 522px;
+    height: 310px;
+    position: absolute;
+    right: 58px;
+}
+
+
+.AB {
+	padding-top: 50px;
+	padding-left: 98px;
+}
+
+
+.feature{
+	margin: 70px 0px;
+	position: relative;
+}
+
+.cp{
+	text-align: center;
+}
+
+.cd{
+	font-size: 20px;
+}
+
+.vix img {
+    height: 530px;
+    display: block;
+
+}
+
+.col-md-4.icon {
+    padding-left: 25px;
+    padding-top: 95px;
+}
+
+.icon i{
+	color: red;
+	font-size: 30px;
+}
+
+
+.Service{
+	padding-bottom: 85px;
+}
+
+.dd{
+	padding-top: 120px;
+}
+.dd i{
+	color: red;
+	font-size: 30px;
+}
+
+.SA img {
+    width: 752px;
+    height: 400px;
+}
+
+.message{
+	background: url(../img/12.png)no-repeat;
+	background-size: cover;
+	height: 300px;
+	padding: 80px 0px;
+	text-align: center;
+}
+
+.discover{
+	padding-top: 70px;
+	text-align: center;
+}
+
+.tcl img{
+	width: 700px;
+    position: absolute;
+    right: 248px;
+    top: -168px;
+}
+.btn1 {
+	padding: 7px 10px;
+    color: #fff;
+    border: 1px solid darkblue;
+    margin: 15px;
+    border-radius: 20px;
+    background: transparent;
+    font-size: 12px;
+    margin-top: 550px;
+    margin-right: 40px;
+    margin-bottom: 58px;
+}
+
+span.line {
+    border: 1px solid #061427;
+    display: inline-block;
+    width: 1140px;
+    height: 2px;
+}
+
+footer{
+	padding: 15px 0px;
+	
+}
+
+ul{
+	list-style: none;
+
+}
+
+ul li{
+	display: inline-block;
+    padding: 0px 7px;
+    font-size: 12px;
+
+}
+
+.col-md-6 p{
+	text-align: right;
+	font-size: 12px;
+}
